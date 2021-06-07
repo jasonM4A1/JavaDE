@@ -1,0 +1,42 @@
+25-Feb-2021 22:17:59.080 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.43
+25-Feb-2021 22:17:59.082 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jan 28 2021 20:25:45 UTC
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.43.0
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Mac OS X
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.15.7
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              x86_64
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     /Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_281-b09
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/bernardo/JavaDoc/apache-tomcat-9.0.43
+25-Feb-2021 22:17:59.083 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/bernardo/JavaDoc/apache-tomcat-9.0.43
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/conf/logging.properties
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=/Users/bernardo/JavaDoc/apache-tomcat-9.0.43
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=/Users/bernardo/JavaDoc/apache-tomcat-9.0.43
+25-Feb-2021 22:17:59.086 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/temp
+25-Feb-2021 22:17:59.088 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[/Users/bernardo/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+25-Feb-2021 22:17:59.616 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+25-Feb-2021 22:17:59.636 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[685]毫秒内初始化
+25-Feb-2021 22:17:59.652 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+25-Feb-2021 22:17:59.652 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.43]
+25-Feb-2021 22:17:59.657 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/docs]
+25-Feb-2021 22:17:59.801 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/docs]的部署已在[143]毫秒内完成
+25-Feb-2021 22:17:59.802 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/manager]
+25-Feb-2021 22:17:59.832 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/manager]的部署已在[30]毫秒内完成
+25-Feb-2021 22:17:59.832 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/examples]
+25-Feb-2021 22:17:59.969 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/examples]的部署已在[137]毫秒内完成
+25-Feb-2021 22:17:59.970 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/ROOT]
+25-Feb-2021 22:17:59.980 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/ROOT]的部署已在[10]毫秒内完成
+25-Feb-2021 22:17:59.980 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/host-manager]
+25-Feb-2021 22:17:59.991 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/bernardo/JavaDoc/apache-tomcat-9.0.43/webapps/host-manager]的部署已在[11]毫秒内完成
+25-Feb-2021 22:17:59.993 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+25-Feb-2021 22:17:59.999 信息 [main] org.apache.catalina.startup.Catalina.start [362]毫秒后服务器启动
+25-Feb-2021 22:18:31.642 信息 [main] org.apache.catalina.core.StandardServer.await 通过关闭端口接收到有效的关闭命令。正在停止服务器实例。
+25-Feb-2021 22:18:31.642 信息 [main] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8080"]
+25-Feb-2021 22:18:31.652 信息 [main] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+25-Feb-2021 22:18:31.665 信息 [main] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8080"]
+25-Feb-2021 22:18:31.700 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8080"]
